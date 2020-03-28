@@ -1,0 +1,3 @@
+	Discharge	Precipitation
+1. No Data	0	25
+2. Gross Error	0	0
